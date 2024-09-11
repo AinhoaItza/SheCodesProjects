@@ -2,6 +2,7 @@
 Greetings 👋
 
 My name is Ainhoa and this repository will contain projects I've completed and am currently working on for my SheCodes Basic & FrontEnd Workshop lessons. After finishing my lessons with their respective projects, I will upload two links, one to the project and another to the official certificate of the course.
+
 This is my first attempt at better documenting my progress and capturing lessons learned, so I ask that you be kind and keep in mind that I'm still learning 👩🏼‍💻😀.
 
 ## SheCodes Basic
