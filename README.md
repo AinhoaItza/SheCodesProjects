@@ -6,7 +6,7 @@ My name is Ainhoa and this repository will contain projects I've completed and a
 This is my first attempt at better documenting my progress and capturing lessons learned, so I ask that you be kind and keep in mind that I'm still learning 👩🏼‍💻😀.
 
 ## SheCodes Basic
-For my first project in SheCodes, I build a website for book lovers❤️ called *The Reading Loft*. Readers will find a small introduction to help them understand the website's purpose and how to navigate through it.
+For my first project in SheCodes, I built a website for book lovers❤️ called *The Reading Loft*. Readers will find a small introduction to help them understand the website's purpose and how to navigate through it.
 
 Built with HTML and CSS.
 
