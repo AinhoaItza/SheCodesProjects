@@ -1,0 +1,111 @@
+body {
+    background: #d8b780;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/130/692/original/Cover_book_header.jpg?1719522823);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    color: rgb(243, 240, 237);
+    display: block;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding: 10px 2px;
+    text-align: center;
+    text-shadow: 4px 0px 4px black;
+  }
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  main {
+    background-color: #f0e2c6;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 5%;
+    padding: 10px 2px;
+    text-align: center;
+  }
+  p {
+    font: oblique bold 120% cursive;
+    font-size: 18px;
+    padding: 8px 8px;
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+  .decorative-line {
+    border: none;
+    height: 4px;
+    width: 50px;
+    background: linear-gradient(to right, #ff8c00, #ff4500);
+    margin: 20px auto;
+    border-radius: 10px;
+  }
+
+  footer {
+    background-color: #333;
+    border-radius: 10px;
+    color: #fff;
+    display: block;
+    text-align: center;
+    padding: 10px 2px;
+  }
+
+  .image-row {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+
+  .image-row img {
+    border-radius: 10px;
+    display: block;
+    height: 350px;
+    margin: 0 auto;
+    max-width: 100%;
+    object-fit: cover;
+    width: 350px;
+  }
+
+  button {
+    display: block;
+    margin: 20px auto;
+    background: #a7b692;
+    color: white;
+    font-size: 18px;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 6px;
+  }
+
+  button:hover {
+    background-color: #818947;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 15px 60px;
+  }
