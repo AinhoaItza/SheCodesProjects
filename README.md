@@ -10,7 +10,7 @@ For my first project in SheCodes, I built a website for book lovers❤️ called
 
 Built with HTML and CSS.
 
-[The Reading Loft](https://www.shecodes.io/cohorts/1335/projects/2273756?_gl=1*5vod0s*_gcl_aw*R0NMLjE3MjU5NjQyNzMuQ2owS0NRandsYS1oQmhEN0FSSXNBTTl0UUt1QWQyQU9UNUVDZzBZLVp2eEdXVWx0eFVTX2tXWWZPTHZnbG5GWkVMbDdIaUVVaW5HelNERWFBdHBTRUFMd193Y0I.*_gcl_au*MTA1MjIzMjI3Mi4xNzI1NjI0MjI4)
+[The Reading Loft](https://s3.amazonaws.com/shecodesio-production/challenge_submissions/files/002/273/756/original/FinalProject.html?1719603334)
 
 [Verified Certificate](https://www.shecodes.io/certificates/eec372f55e59ee37a10077322280a0f1?_gl=1*1fbyxif*_gcl_aw*R0NMLjE3MjU5NjQyNzMuQ2owS0NRandsYS1oQmhEN0FSSXNBTTl0UUt1QWQyQU9UNUVDZzBZLVp2eEdXVWx0eFVTX2tXWWZPTHZnbG5GWkVMbDdIaUVVaW5HelNERWFBdHBTRUFMd193Y0I.*_gcl_au*MTA1MjIzMjI3Mi4xNzI1NjI0MjI4)
 
